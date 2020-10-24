@@ -1,0 +1,12 @@
+# Font style metadata
+name = "my_font_set"
+
+# Optional Google font URL
+#google_fonts = "Open+Sans"
+google_fonts = "family=Duru+Sans&family=Open+Sans&family=Raleway&family=Roboto"
+
+# Font families
+heading_font = "Open Sans"
+body_font = "Raleway"
+nav_font = "Roboto"
+mono_font = "Roboto"
